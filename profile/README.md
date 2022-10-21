@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.jpg" width=500 height=500> 
+  <img src="https://github.com/camel-lang/.github/blob/master/profile/logo.jpg" width=500 height=500> 
   <br>
 Camel is a Monkey-based, C-like programming language.<br>
 It was written purely for fun.<br>
